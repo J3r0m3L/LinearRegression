@@ -1,0 +1,5 @@
+Linear Regression (Gradient Descent): Machine Learning Technique
+-Use gradient descent (sum of squared error) to get the line of best fit
+-Linear Regression is machine learning not deep learning
+-Sum of squared errors is taken from the distance from the points to best-fit line
+  -Look up a picture of equation cuz its too hard to write in a .txt file
